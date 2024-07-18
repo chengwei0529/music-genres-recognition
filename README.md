@@ -1,1 +1,1 @@
-# music-genres-recognition-master
+# music-genres-recognition
